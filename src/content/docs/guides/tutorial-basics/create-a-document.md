@@ -1,6 +1,6 @@
 ---
-title: Test
-description: test
+title: rename
+description: add_desc
 ---
 
 # Create a Document
@@ -32,7 +32,8 @@ Add metadata to customize the sidebar label and position:
 ```md title="docs/hello.md" {1-4}
 ---
 sidebar_label: 'Hi!'
-
+title: rename
+description: add_desc
 ---
 
 # Hello

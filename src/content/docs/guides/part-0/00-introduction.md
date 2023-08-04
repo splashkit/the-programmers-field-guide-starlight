@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Programmer's Field Guide
+title: rename
 description: Plan your journey to harness the power of computing.
 ---
 
