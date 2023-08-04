@@ -1,4 +1,5 @@
 ---
+title: Welcome to the Programmer's Field Guide
 description: Plan your journey to harness the power of computing.
 ---
 
